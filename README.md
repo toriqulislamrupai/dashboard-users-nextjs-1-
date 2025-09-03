@@ -3,6 +3,9 @@
 A responsive dashboard that lists users from **JSONPlaceholder**, with **search** (by name/email), **pagination**, and a **user details** page. Built using **Next.js App Router**, **TailwindCSS**, **Framer Motion** (animations), and a subtle **3D background** via `@react-three/fiber`.
 
 Live Data: https://jsonplaceholder.typicode.com/
+Check out the live project here:  
+[https://dashboard-users-nextjs-1.vercel.app/users](https://dashboard-users-nextjs-1.vercel.app/users)
+
 
 ## Quickstart
 
