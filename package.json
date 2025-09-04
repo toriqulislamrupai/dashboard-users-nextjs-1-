@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "tailwindcss init -p -f || true"
+    "lint": "next lint"
   },
   "dependencies": {
     "@react-three/drei": "^9.119.3",
